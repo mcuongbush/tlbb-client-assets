@@ -1,0 +1,10 @@
+# Game data is uploaded as separate GitHub Release assets, not Git objects.
+/TLBB-client.zip.*
+/Connection/
+/Patch/
+**/client_key*
+**/known_hosts
+*.ppk
+*.pem
+.env
+.env.*
